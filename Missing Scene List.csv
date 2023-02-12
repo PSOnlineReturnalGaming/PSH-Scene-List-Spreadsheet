@@ -1,0 +1,37 @@
+ID,Scene Type (Private/Public),Region,HDK Version,CDN ID,Slug ID:,Notes
+
+Audi Tech Drive Track 2,Public,,,AudiTechDrive_Track2_74_45E2,,
+Audi Tech Drive Track 3,Public,,,AudiTechDrive_Track3_4C75_4FDE,,
+api test,Public,,1.3.5.75.ALPHA,APITestScene_4752_714D,,Testing new API functionality
+"ライアーゲーム Liar Game",Public,SCEJ,,SCEJ_LiarGame_E7F6_5A20,,
+Broken,Public,,1.3.5,Collision_Test_29D3_14A9,,
+Capcom Sky Lounge Autumn Version,Public,SCEJ,,Capcom_Event_Autumn_D687_77C2,,
+Capcom Sky Lounge Winter Version,Public,SCEJ,,,,
+Central Plaza Version 1 (Closed Beta),Public,SCEA,,,,Was available during Private-Beta versions 0.98 & lower.
+IREM Gekito Meadows (真ゲ・キトー草原),Public,SCEJ,,IREM_SCEAsia_CastleW_7F83_C5D2,,
+IREM Headquarters,Public,SCEJ,,nulls,,
+IREM R-Type Lounge,Public,SCEJ/SCEAsia,,J_IREM_RTYPE_LOUNGE_5963_6F4D,,
+gundam japan theatre,Public,SCEJ,,,,Private Beta version 0.8.6
+Green Room,Public,,1.82.0.17.PUB,Green_Room_9250_46FC,,A scene for posing your avatar
+MediaRSSTest,Public,,,MediaRSSTest_EEC2_74CC,,
+NetworkTest,Public,,,InternalTest_D009_745E,,
+No Man's Land Movie,,,,nomansland_movie_f410_bad9,,
+No Man's Land Level 2,,,,nomansland_level2_83bb_8736,,
+No Man's Land SinglePlayer,,,,nomansland_sp_level2_a1fa_8b1a,,
+presentation podium,Public,,,,,Private Beta version 0.8.6
+pspgopodiumspace_f302_5204,Public,SCEE,,pspgopodiumspace_f302_5204,,
+Queue,Public,,,TestRoom1_2646_EC30,,Queue test scene
+Heavy Rain Podium,,,,scee_heavyrainpodium_770a_68d2,,
+SCEJ Music Cafe ホームカフェ (Hatsune Miku Event),Public,SCEJ,,,,Limited Time Event
+SCEJ Music Cafe ホームカフェ (ブラック★ロックシューター BLACK ROCK SHOOTER Event),Public,SCEJ,,,,
+"Singstar VIP ""Dizzee Rascal"" Event",Public,SCEE,,,,Limited Time Event exclusive to SCEE
+Slytherin Common Room,Public,,,Slytherin_Common_Rm_8080_236C,,
+Sony Aquarium VR 黒潮の海,Public,SCEJ,,Sony_Aquarium_F221_8BC4,,Limited Time Event
+Sparkle in the Void of Space,Public,SCEJ/SCEE,,,,
+Tokyo Game Show Event Theatre 2011,Public,SCEJ,,TGS_2011_Scene_7042_C1CF,,Limited Time Event
+ホームスクエア SCEJ Home Square (Closed Beta),Public,SCEJ,,,,Pre-Beta exclusive to SCEJ.
+ホームスクエア SCEJ Home Square (Halloween Event 2010),Public,SCEJ,,,,Limited Time Event
+ホームスクエア SCEJ Home Square (Hatsune Miku Edition),Public,SCEJ,,,,Limited Time Event
+ホームスクエア SCEJ Home Square (Idolmaster Live Event),Public,SCEJ,,,,Limited Time Event
+ホームスクエア SCEJ Home Square (MACROSS Frontier Event),Public,SCEJ,,,,Limited Time Event
+マクロスFプレミアムライブ,Public,SCEJ,,Macross_Public_Space_7395_6732,,Limited Time Event
